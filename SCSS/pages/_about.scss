@@ -33,6 +33,13 @@
         padding: 1rem;
         background-color: lighten($primary--color, 10%);
         border-bottom: 5px solid $secondary--color;
+        h2,h3{
+            margin: 0.5rem;
+        }
+
+        h6{
+            margin: .3rem;
+        }
     }
 }
 
