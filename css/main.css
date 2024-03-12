@@ -151,16 +151,19 @@ footer.vertical .copyright {
   margin-bottom: 0.5rem;
 }
 
-.projects__item {
+.projects__items {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 2rem 15rem;
 }
-.projects__items {
-  width: 100%;
+.projects__item {
+  width: 33%;
+  cursor: pointer;
+  border-bottom: 5px solid #ff652f;
 }
-.projects__items img {
+.projects__item img {
   width: 100%;
 }
 
