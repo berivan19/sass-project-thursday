@@ -40,6 +40,11 @@ footer.vertical .copyright {
   writing-mode: vertical-lr;
 }
 
+footer.middle {
+  height: 20vh;
+  display: flex;
+}
+
 .nav {
   height: 10vh;
   padding: 1rem;
